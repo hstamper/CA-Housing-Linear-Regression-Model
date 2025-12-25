@@ -32,8 +32,8 @@ Model: Linear Regression
 ## Results
 The model provides a baseline for housing prediction, highlighting the significant impact of proximity to the coast and household income on property valuation in California.
 
-```
 ## How to Run
+```
   1. Clone the repo: git clone https://github.com/hstamper/CA-Housing-Analysis.git
   2. Run the notebook: jupyter notebook CA_Housing.ipynb
 ```
